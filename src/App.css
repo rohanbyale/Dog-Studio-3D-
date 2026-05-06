@@ -245,7 +245,7 @@ main:has(#section-2 .title[img-title="opera"]:hover) .images #opera {
     flex: 1;
   }
 
-  // Top Section
+  
   .top {
     .left {
       padding-left: clamp(0rem, 5vw, 5rem);
@@ -261,7 +261,7 @@ main:has(#section-2 .title[img-title="opera"]:hover) .images #opera {
     }
   }
 
-  // Bottom Section
+  
   .bottom {
     .right {
       display: flex;
